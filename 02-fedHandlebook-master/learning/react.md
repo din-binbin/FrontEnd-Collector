@@ -26,7 +26,7 @@
 
 **手册参考:**
 
-* [React 速查手册](http://ricostacruz.com/cheatsheets/react.html)
+* [React 速查手册](https://devhints.io/react)
 * [React Cheat Sheet](http://reactcheatsheet.com/)
 * [React Style Guide](https://github.com/dwqs/react-style-guide)
 
